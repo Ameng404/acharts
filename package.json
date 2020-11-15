@@ -1,0 +1,24 @@
+{
+  "name": "acharts",
+  "version": "1.0.0",
+  "description": "acharts is a javascript dynamic visualization charts library,using canvas svg,simple and efficient.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ameng404/acharts.git"
+  },
+  "keywords": [
+    "chart",
+    "javascript",
+    "h5"
+  ],
+  "author": "Ameng404",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ameng404/acharts/issues"
+  },
+  "homepage": "https://acharts.cn"
+}
